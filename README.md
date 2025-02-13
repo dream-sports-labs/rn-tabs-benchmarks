@@ -24,7 +24,7 @@ We are using the [**Marco**](https://marco.dreamsportslabs.com/) tool to mark ev
 ## Load Time ⌛
 
 1. **Capture the Initial Event:**
-   - The event is triggered when a button is clicked to open a bottom tab. (refer: [Native](https://github.com/shubhaamgupta11/rn-tabs-benchmarks/blob/7577609fb6eeaa78768a651e968b07ca2bc0d24f/src/TabsBenchmark.tsx#L23) & [JS](https://github.com/shubhaamgupta11/rn-tabs-benchmarks/blob/7577609fb6eeaa78768a651e968b07ca2bc0d24f/src/TabsBenchmark.tsx#L31))
+   - The event is triggered when a button is clicked to open a bottom tab. (refer: [Native](https://github.com/dream-sports-labs/rn-tabs-benchmarks/blob/5acd34946b242e80180a2f4d1c981527990141c8/src/TabsBenchmark.tsx#L23) & [JS](https://github.com/dream-sports-labs/rn-tabs-benchmarks/blob/5acd34946b242e80180a2f4d1c981527990141c8/src/TabsBenchmark.tsx#L31))
    - The `timestamp` is extracted from the `Pressable.onPress` event object.
    - The `timestamp` and a marker name are passed to the native module `PerformanceTracker.track()` to log the start time.
 
@@ -32,12 +32,12 @@ We are using the [**Marco**](https://marco.dreamsportslabs.com/) tool to mark ev
    - The load time completes when the initial screen content is fully painted and visible.
    - We wrapped the **Article Screen** with the **PerformanceTracker** API from the **Marco** library.
    - This accurately captures the **onDraw** event, indicating when the screen is fully rendered.
-   - Code [reference](https://github.com/shubhaamgupta11/rn-tabs-benchmarks/blob/7577609fb6eeaa78768a651e968b07ca2bc0d24f/src/Screens/Article.tsx#L51)
+   - Code [reference](https://github.com/dream-sports-labs/rn-tabs-benchmarks/blob/5acd34946b242e80180a2f4d1c981527990141c8/src/Screens/Article.tsx#L51)
 
 ## Tab Switch Time 🔄
 
 1. **Capture the Tab Press Event:**
-   - The event is captured when a tab is pressed. (refer: [JS](https://github.com/shubhaamgupta11/rn-tabs-benchmarks/blob/7577609fb6eeaa78768a651e968b07ca2bc0d24f/src/JSBottomTab.tsx#L30) & [Native](https://github.com/shubhaamgupta11/rn-tabs-benchmarks/blob/7577609fb6eeaa78768a651e968b07ca2bc0d24f/src/NativeBottomTab.tsx#L31))
+   - The event is captured when a tab is pressed. (refer: [JS](https://github.com/dream-sports-labs/rn-tabs-benchmarks/blob/5acd34946b242e80180a2f4d1c981527990141c8/src/JSBottomTab.tsx#L30) & [Native](https://github.com/dream-sports-labs/rn-tabs-benchmarks/blob/5acd34946b242e80180a2f4d1c981527990141c8/src/NativeBottomTab.tsx#L31))
    - The `timestamp` is obtained from listeners attached to the `tabPress` event at the screen level.
    - This `timestamp`, along with a marker name, is sent to `PerformanceTracker.track()` to log the start of the tab switch action.
 
@@ -45,7 +45,7 @@ We are using the [**Marco**](https://marco.dreamsportslabs.com/) tool to mark ev
    - The tab switch time completes when the new screen content is fully rendered and visible.
    - We wrapped the **Album Screen** with the **PerformanceTracker** API from the **Marco** library.
    - This accurately captures the **onDraw** event, marking the end of the tab switch process and the benchmark.
-   - Code [reference](https://github.com/shubhaamgupta11/rn-tabs-benchmarks/blob/7577609fb6eeaa78768a651e968b07ca2bc0d24f/src/Screens/Albums.tsx#L57)
+   - Code [reference](https://github.com/dream-sports-labs/rn-tabs-benchmarks/blob/5acd34946b242e80180a2f4d1c981527990141c8/src/Screens/Albums.tsx#L57)
 
 
 ## Results
@@ -114,7 +114,7 @@ We are using the [**Marco**](https://marco.dreamsportslabs.com/) tool to mark ev
 ### Setup
 
 ```sh
-git clone git@github.com:shubhaamgupta11/rn-tabs-benchmarks.git
+git clone git@github.com:dream-sports-labs/rn-tabs-benchmarks.git
 cd rn-tabs-benchmarks
 yarn install
 ```
