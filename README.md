@@ -34,6 +34,22 @@ We are using the [**Marco**](https://marco.dreamsportslabs.com/) tool to mark ev
    - This accurately captures the **onDraw** event, indicating when the screen is fully rendered.
    - Code [reference](https://github.com/shubhaamgupta11/rn-tabs-benchmarks/blob/7577609fb6eeaa78768a651e968b07ca2bc0d24f/src/Screens/Article.tsx#L51)
 
+## Tab Switch Time 🔄
+
+1. **Capture the Tab Press Event:**
+   - The event is captured when a tab is pressed. (refer: [JS](https://github.com/shubhaamgupta11/rn-tabs-benchmarks/blob/7577609fb6eeaa78768a651e968b07ca2bc0d24f/src/JSBottomTab.tsx#L30) & [Native](https://github.com/shubhaamgupta11/rn-tabs-benchmarks/blob/7577609fb6eeaa78768a651e968b07ca2bc0d24f/src/NativeBottomTab.tsx#L31))
+   - The `timestamp` is obtained from listeners attached to the `tabPress` event at the screen level.
+   - This `timestamp`, along with a marker name, is sent to `PerformanceTracker.track()` to log the start of the tab switch action.
+
+2. **Track New Screen Rendering:**
+   - The tab switch time completes when the new screen content is fully rendered and visible.
+   - We wrapped the **Album Screen** with the **PerformanceTracker** API from the **Marco** library.
+   - This accurately captures the **onDraw** event, marking the end of the tab switch process and the benchmark.
+   - Code [reference](https://github.com/shubhaamgupta11/rn-tabs-benchmarks/blob/7577609fb6eeaa78768a651e968b07ca2bc0d24f/src/Screens/Albums.tsx#L57)
+
+
+## Results
+
 ### Load Time Comparison (Native vs JS)
 
 | Device        | Native Bottom Tabs | JS Bottom Tabs |
@@ -52,19 +68,6 @@ We are using the [**Marco**](https://marco.dreamsportslabs.com/) tool to mark ev
 
 <img src="./assets/benchmarks/oneplus/js_tab_load.png" alt="JS Load Time Oneplus" width="600"/>
 </details>
-
-## Tab Switch Time 🔄
-
-1. **Capture the Tab Press Event:**
-   - The event is captured when a tab is pressed. (refer: [JS](https://github.com/shubhaamgupta11/rn-tabs-benchmarks/blob/7577609fb6eeaa78768a651e968b07ca2bc0d24f/src/JSBottomTab.tsx#L30) & [Native](https://github.com/shubhaamgupta11/rn-tabs-benchmarks/blob/7577609fb6eeaa78768a651e968b07ca2bc0d24f/src/NativeBottomTab.tsx#L31))
-   - The `timestamp` is obtained from listeners attached to the `tabPress` event at the screen level.
-   - This `timestamp`, along with a marker name, is sent to `PerformanceTracker.track()` to log the start of the tab switch action.
-
-2. **Track New Screen Rendering:**
-   - The tab switch time completes when the new screen content is fully rendered and visible.
-   - We wrapped the **Album Screen** with the **PerformanceTracker** API from the **Marco** library.
-   - This accurately captures the **onDraw** event, marking the end of the tab switch process and the benchmark.
-   - Code [reference](https://github.com/shubhaamgupta11/rn-tabs-benchmarks/blob/7577609fb6eeaa78768a651e968b07ca2bc0d24f/src/Screens/Albums.tsx#L57)
 
 ### Tab Switch Time Comparison (Native vs JS)
 
@@ -86,6 +89,16 @@ We are using the [**Marco**](https://marco.dreamsportslabs.com/) tool to mark ev
 
 > The Marco snapshots are stored inside: `reports/android/<device>/log.json`.
 
+## Summary 📌
+### Load Time:
+
+- JS Bottom Tabs were **faster on low-end** devices (278ms vs. 357ms).
+- Native Bottom Tabs were **faster on high-end** devices (98ms vs. 122ms).
+
+### Tab Switch Time:
+
+- JS Bottom Tabs had a slight edge on low-end devices (375ms vs. 418ms).
+- Native Bottom Tabs were faster on high-end devices (92ms vs. 107ms).
 
 <details><summary>How to Run the Benchmarks 🛠️</summary>
 
@@ -137,18 +150,6 @@ This will open up a dashboard where we can select events to analyse data.
 > **Ensure the correct `dataDir` path is set in `marco.config.js`**.
 
 </details>
-
-## Summary 📌
-### Load Time:
-
-- JS Bottom Tabs were **faster on low-end** devices (278ms vs. 357ms).
-- Native Bottom Tabs were **faster on high-end** devices (98ms vs. 122ms).
-
-### Tab Switch Time:
-
-- JS Bottom Tabs had a slight edge on low-end devices (375ms vs. 418ms).
-- Native Bottom Tabs were faster on high-end devices (92ms vs. 107ms).
-
 
 👉 Checkout [Marco](https://www.npmjs.com/package/@d11/marco) to benchmark more such scenarios.
 
