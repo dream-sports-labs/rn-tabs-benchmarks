@@ -30,7 +30,7 @@ We are using the [**Marco**](https://marco.dreamsportslabs.com/) tool to mark ev
 
 2. **Track Screen Rendering:**
    - The load time completes when the initial screen content is fully painted and visible.
-   - We wrapped the **Article Screen** with the **PerformanceTracker** API from the **Marco** library.
+   - We wrapped the **Article Screen** with the [**PerformanceTracker**](https://marco.dreamsportslabs.com/api/tracking-screen/) API from the **Marco** library.
    - This accurately captures the **onDraw** event, indicating when the screen is fully rendered.
    - Code [reference](https://github.com/dream-sports-labs/rn-tabs-benchmarks/blob/5acd34946b242e80180a2f4d1c981527990141c8/src/Screens/Article.tsx#L51)
 
@@ -43,7 +43,7 @@ We are using the [**Marco**](https://marco.dreamsportslabs.com/) tool to mark ev
 
 2. **Track New Screen Rendering:**
    - The tab switch time completes when the new screen content is fully rendered and visible.
-   - We wrapped the **Album Screen** with the **PerformanceTracker** API from the **Marco** library.
+   - We wrapped the **Album Screen** with the [**PerformanceTracker**](https://marco.dreamsportslabs.com/api/tracking-screen/) API from the **Marco** library.
    - This accurately captures the **onDraw** event, marking the end of the tab switch process and the benchmark.
    - Code [reference](https://github.com/dream-sports-labs/rn-tabs-benchmarks/blob/5acd34946b242e80180a2f4d1c981527990141c8/src/Screens/Albums.tsx#L57)
 
