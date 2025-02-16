@@ -9,6 +9,7 @@ const stdio = {
 };
 
 validateInput();
+cleanFilesBeforeRunning();
 runMaestroScript();
 
 function validateInput() {
@@ -30,6 +31,12 @@ function validateInput() {
     (globalThis as any).process.exit(1);
   }
 }
+
+function cleanFilesBeforeRunning() {
+  if (platform === 'android') {
+    execSync('adb shell rm -f /sdcard/Documents/PerformanceTracker/log.json', stdio)
+  }
+ }
 
 function runMaestroScript() {
 

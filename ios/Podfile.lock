@@ -1234,7 +1234,7 @@ PODS:
     - SDWebImageSVGCoder (>= 1.7.0)
     - SwiftUIIntrospect (~> 1.0)
     - Yoga
-  - react-native-performance-tracker (0.0.5):
+  - react-native-performance-tracker (0.0.6):
     - DoubleConversion
     - glog
     - hermes-engine
@@ -1926,7 +1926,7 @@ SPEC CHECKSUMS:
   React-Mapbuffer: bbd3be71ef32e8198ac0f78b841662103e032ffe
   React-microtasksnativemodule: 8e65fc37744388153b9bca94552d04955d852058
   react-native-bottom-tabs: 2822dfd150369b13bfe74e54bb7971c8383a1c72
-  react-native-performance-tracker: 8481e10862970267b15305d1753a407d468195c2
+  react-native-performance-tracker: 0c2b64d92e42fb52542ff4757cbf8772591e61f2
   react-native-safe-area-context: 02e0f487c16ccf1acc8a666bed2318ceeb5dc14c
   React-nativeconfig: 334c9961d74ddd3bc203afb92ee574ed01c7c755
   React-NativeModulesApple: bf996c9e3b86e579e6e8635633b721c165a60b2c

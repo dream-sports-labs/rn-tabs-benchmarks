@@ -11,7 +11,7 @@
     "build:report": "mkdir -p marco-report && cp -r node_modules/@d11/marco/web/dist/* marco-report/",
     "deploy:report": "yarn build:report && gh-pages -d marco-report",
     "get:numbers:android": "cd src/scripts/node && ts-node run-benchmarks.ts android com.rntabsbenchmarks",
-    "generate:report:ios": "cd src/scripts/node && ts-node run-benchmarks.ts ios org.reactjs.native.example.RNTabsBenchmarks 1"
+    "gen:numbers:ios": "cd src/scripts/node && ts-node run-benchmarks.ts ios org.reactjs.native.example.RNTabsBenchmarks"
   },
   "homepage": "https://shubhaamgupta11.github.io/rn-tabs-benchmarks",
   "dependencies": {

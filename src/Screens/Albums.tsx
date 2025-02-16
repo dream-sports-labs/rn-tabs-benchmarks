@@ -73,9 +73,6 @@ export function Albums(props: any) {
         contentContainerStyle={styles.content}
         contentInsetAdjustmentBehavior="automatic">
         {COVERS.map((source, i) => (
-          <PerformanceTracker isEnabled={i === 0} tagName='Inner View' onTrackingEnd={({nativeEvent}) => {
-              console.log("::: Shubham Inner View ", nativeEvent.drawTime)
-          }}>
           <View
             key={i}
             style={[
@@ -87,7 +84,6 @@ export function Albums(props: any) {
             ]}>
             <Image source={source} resizeMode="cover" style={styles.photo} />
           </View>
-          </PerformanceTracker>
         ))}
       </ScrollView>
     </PerformanceTracker>

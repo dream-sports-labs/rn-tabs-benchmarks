@@ -1,8 +1,8 @@
 module.exports = {
     android: {
       packageName: 'com.rntabsbenchmarks',
-      outputPath: './reports/android/oneplus/',
-      dataDir: 'reports/android/oneplus/log.json',
+      outputPath: './reports/startup/opt/',
+      dataDir: 'reports/startup/opt/log.json',
       port: '8080',
     },
     ios: {
