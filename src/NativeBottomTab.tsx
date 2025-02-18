@@ -13,6 +13,7 @@ const Tab = createNativeBottomTabNavigator();
 function NativeBottomTabs(props: any) {
   return (
     <Tab.Navigator
+      disablePageAnimations={true}
     >
       <Tab.Screen
         name="Article"
