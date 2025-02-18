@@ -1,0 +1,962 @@
+[
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700909651
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700909714
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700910838
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700910867
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700913178
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700913233
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700914168
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700914198
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700916170
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700916233
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700917261
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700917291
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700919148
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700919211
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700920121
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700920150
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700922487
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700922550
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700923632
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700923661
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700925693
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700925756
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700926848
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700926867
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700928582
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700928646
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700930090
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700930119
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700931990
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700932048
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700932988
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700933019
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700934775
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700934835
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700935826
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700935856
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700937662
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700937721
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700938661
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700938685
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700940538
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700940604
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700941612
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700941642
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700943347
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700943411
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700944606
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700944637
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700946393
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700946455
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700947550
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700947567
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700949402
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700949457
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700950598
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700950627
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700952401
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700952459
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700953857
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700953885
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700955987
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700956048
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700957163
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700957184
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700959018
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700959076
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700960153
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700960183
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700961835
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700961894
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700962919
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700962950
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700965245
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700965306
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700966306
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700966338
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700968395
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700968459
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700969739
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700969767
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700971494
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700971555
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700972778
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700972807
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700974616
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700974680
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700975684
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700975715
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700977449
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700977507
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700978430
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700978461
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700980153
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700980215
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700981316
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700981347
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700983103
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700983161
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700984143
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700984167
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739700986513
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739700986573
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739700987604
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739700987636
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739701049190
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739701049252
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739701050464
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739701050490
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739701052683
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739701052744
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739701053835
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739701053866
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739701055878
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739701055941
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739701056794
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739701056824
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701063259
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701063314
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701064345
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701064381
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701066144
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701066205
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701067283
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701067318
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701069145
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701069205
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701070065
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701070102
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701072149
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701072213
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701073198
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701073232
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701075202
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701075259
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701076214
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701076249
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701077854
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701077914
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701078964
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701079002
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701080877
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701080934
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701081879
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701081914
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701083676
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701083717
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701084716
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701084742
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701086584
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701086646
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701087655
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701087692
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701089759
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701089813
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701091370
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701091405
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701093544
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701093604
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701094703
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701094739
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701096180
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701096218
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701097215
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701097238
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701098982
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701099021
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701100101
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701100124
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701102110
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701102169
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701103190
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701103225
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701104799
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701104862
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701105840
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701105872
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701108055
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701108110
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701109127
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701109163
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701110931
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701110988
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701112033
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701112068
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701113712
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701113771
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701114815
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701114850
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701117202
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701117263
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701118457
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701118494
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701120408
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701120459
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701121491
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701121526
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701123386
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701123447
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701124553
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701124587
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701126400
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701126456
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701127595
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701127643
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701129267
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701129322
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701130282
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701130317
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701132098
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701132158
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701133165
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701133200
+  },
+  {
+    "tagName" : "Native_Tab_Load_Start",
+    "timestamp" : 1739701348194
+  },
+  {
+    "tagName" : "Native_Tab_Load_End",
+    "timestamp" : 1739701348262
+  },
+  {
+    "tagName" : "Native_Tab_Album_Pressed",
+    "timestamp" : 1739701349366
+  },
+  {
+    "tagName" : "Native_Tab_Album_Loaded",
+    "timestamp" : 1739701349397
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701351812
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701351875
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701352862
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701352902
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701354475
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701354522
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701355539
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701355576
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701357357
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701357419
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701358309
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701358344
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701360355
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701360416
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701361511
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701361549
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701378431
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701378484
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701379464
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701379499
+  },
+  {
+    "tagName" : "JS_Tab_Load_Start",
+    "timestamp" : 1739701381101
+  },
+  {
+    "tagName" : "JS_Tab_Load_End",
+    "timestamp" : 1739701381148
+  },
+  {
+    "tagName" : "JS_Tab_Album_Pressed",
+    "timestamp" : 1739701382133
+  },
+  {
+    "tagName" : "JS_Tab_Album_Loaded",
+    "timestamp" : 1739701382169
+  }
+]

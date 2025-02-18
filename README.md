@@ -19,6 +19,7 @@ We are using the [**Marco**](https://marco.dreamsportslabs.com/) tool to mark ev
     - OnePlus Nord 2T (High-end device)
         - OS: Android 14
         - RAM: 8 GB
+    - iPhone 15 Pro 17.2
 </details>
 
 ## Load Time ⌛
@@ -56,6 +57,7 @@ We are using the [**Marco**](https://marco.dreamsportslabs.com/) tool to mark ev
 |--------------|------------------|------------------|
 | Vivo (low-end) | **357 ms** | **278 ms** |
 | OnePlus (high-end) | **98 ms** | **122 ms** |
+| iPhone | **61 ms** | **55 ms** |
 
 ### Marco reports for Vivo
 
@@ -69,12 +71,19 @@ We are using the [**Marco**](https://marco.dreamsportslabs.com/) tool to mark ev
 <img src="./assets/benchmarks/oneplus/js_tab_load.png" alt="JS Load Time Oneplus" width="600"/>
 </details>
 
+<details ><summary>Click to View iPhone Load Time Reports</summary>
+<img src="./assets/benchmarks/ios/ios_native_load.png" alt="Native Load Time iPhone" width="600"/>
+
+<img src="./assets/benchmarks/ios/ios_js_load.png" alt="JS Load Time Oneplus" width="600"/>
+</details>
+
 ### Tab Switch Time Comparison (Native vs JS)
 
 | Device        | Native Bottom Tabs | JS Bottom Tabs |
 |--------------|------------------|------------------|
 | Vivo (low-end) | **418 ms** | **375 ms** |
 | Oneplus (high-end)| **92 ms** | **107 ms** |
+| iPhone| **28 ms** | **34 ms** |
 
 ### Marco reports for Vivo
 
@@ -87,18 +96,25 @@ We are using the [**Marco**](https://marco.dreamsportslabs.com/) tool to mark ev
 
 <img src="./assets/benchmarks/oneplus/js_tab_switch.png" alt="JS Tab Switch Time Oneplus" width="600"/> </details>
 
-> The Marco snapshots are stored inside: `reports/android/<device>/log.json`.
+<details > <summary>Click to View iPhone Tab Switch Reports</summary>
+<img src="./assets/benchmarks/ios/ios_native_tab_Switch.png" alt="Native Tab Switch Time Oneplus" width="600"/>
+
+<img src="./assets/benchmarks/ios/ios_js_tab_Switch.png" alt="JS Tab Switch Time Oneplus" width="600"/> </details>
+
+> The Marco snapshots are stored inside: `reports/<platform>/<device>/log.json`.
 
 ## Summary 📌
 ### Load Time:
 
 - JS Bottom Tabs were **faster on low-end** devices (278ms vs. 357ms).
 - Native Bottom Tabs were **faster on high-end** devices (98ms vs. 122ms).
+- Native Bottom Tabs were **slower on iOS** devices.
 
 ### Tab Switch Time:
 
 - JS Bottom Tabs had a slight edge on low-end devices (375ms vs. 418ms).
 - Native Bottom Tabs were faster on high-end devices (92ms vs. 107ms).
+- Native Bottom Tabs were **faster on iOS** devices.
 
 <details><summary>How to Run the Benchmarks 🛠️</summary>
 
